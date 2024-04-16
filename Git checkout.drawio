@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T01:02:57.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="G4NVqw8cqe-MSavM72Fy" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T04:27:18.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DIDmJ2uMfTMKDqeMTep6" version="22.1.20" type="github">
   <diagram name="Page-1" id="ULG5-SwrjvbvYwsLCoPU">
-    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-600" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-570" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-590" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-590" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-4" value="This is file1.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-5" value="This is file2.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-6" value="This is file3.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-7" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-8" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-9" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZxrXrJK3XAHgMsFRcJLf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="-470" as="sourcePoint" />
+            <mxPoint x="150" y="-520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-12" value="This is file1.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-13" value="This is file2.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-14" value="This is file3.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-15" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-16" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-17" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-19" value="commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-20" value="This is file1.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-575" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-21" value="This is file2.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-505" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-22" value="This is file3.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-435" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-23" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-24" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-25" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="-470.5" as="sourcePoint" />
+            <mxPoint x="570" y="-470.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-27" value="git add ." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-28" value="git commit -m &quot;msg&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-505" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-29" value="&lt;b&gt;Working Tree&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="-350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-30" value="&lt;b&gt;Staging/Index&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-31" value="&lt;b&gt;Local Repo&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="-340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxrXrJK3XAHgMsFRcJLf-32" value="Initial Setup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-640" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
