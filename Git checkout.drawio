@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T01:07:17.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6qLbLFdWQVqyJ1athkxf" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T01:12:13.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FB_VQ97s17Lgqt_CKLqr" version="24.2.5" type="github">
   <diagram name="Page-1" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="2071" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -216,6 +216,102 @@
         </mxCell>
         <mxCell id="51GevIcB0D_MdJrOLyus-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;git checkout&lt;/b&gt;&lt;/font&gt; is used to discard the unstaged changes of git tracked files in working directory.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-85" y="-730" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="800" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="830" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="810" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="810" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-49" value="This is file1.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-67.5" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-50" value="This is file2.txt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-67.5" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-51" value="This is file3.txt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-67.5" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-52" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-42.5" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-53" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-37.5" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-54" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-37.5" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="51GevIcB0D_MdJrOLyus-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="77.5" y="930" as="sourcePoint" />
+            <mxPoint x="127.5" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-56" value="This is file1.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-57" value="This is file2.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-58" value="This is file3.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-59" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-60" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-61" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-62" value="commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-63" value="This is file1.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="825" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-64" value="This is file2.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="895" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-65" value="This is file3.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="965" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-66" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="865" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-67" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-68" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1005" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.5" y="929.5" as="sourcePoint" />
+            <mxPoint x="547.5" y="929.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-70" value="&lt;b&gt;Staging/Index&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="1050" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-71" value="&lt;b&gt;Local Repo&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="1060" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-72" value="This is file4.txt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-67.5" y="1035" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-73" value="file4.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-37.5" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51GevIcB0D_MdJrOLyus-74" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Step 5 : I ran &#39;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;i&gt;git checkout .&#39;&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;command. Now, the setup should as follows.&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;file2.txt and file3.txt unstaged changes are discarded in working directory, as they are tacked by git.&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;file4.txt is not changed because, it is not tracked by git.&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="740" width="782.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
