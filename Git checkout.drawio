@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T14:12:41.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="u_q3vsVGdpKh-_CGGV9Y" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-20T19:32:32.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qIZrq7gTEi7Cf0cy5TQO" version="24.2.5" type="github" pages="3">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="7065" dy="4895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lgoz-sQ-dw9CHmjnsCRb" name="Git Reset - Staging">
-    <mxGraphModel dx="2093" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2305" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -761,6 +761,156 @@
         </mxCell>
         <mxCell id="kA0_h9cPIRyGy4dU21_1-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Staging&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="1740" width="125" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Psr1CW0vKg7iBQquLCXE" name="Git Staging - Local repo level">
+    <mxGraphModel dx="2305" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ILbWOweAZtpN35By5apy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-600" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-590" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-590" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-8" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-9" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-10" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ILbWOweAZtpN35By5apy-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="-470" as="sourcePoint" />
+            <mxPoint x="150" y="-520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-420" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-22" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-23" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-24" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ILbWOweAZtpN35By5apy-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="-470.5" as="sourcePoint" />
+            <mxPoint x="570" y="-470.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-470" />
+              <mxPoint x="520" y="-555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-26" value="git add ." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-27" value="git commit -m &quot;msg&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-28" value="&lt;b&gt;Working Tree&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="-350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-29" value="&lt;b&gt;Staging/Index&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-30" value="&lt;b&gt;Local Repo&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="-340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Step 1 : Initial Setup&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-77.5" y="-650" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-32" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Step 2 : Now we can use&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(0, 0, 255); font-size: 16px; text-align: center;&quot;&gt;git reset&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;to undo any commits in the local repo.&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Modifying file2.txt file3.txt&lt;/li&gt;&lt;li&gt;Added file4.txt&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-240" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Git Reset - Local Repo level&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="-790" width="337.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;git reset&amp;nbsp;&lt;/b&gt;&lt;/font&gt;is used to undo commits at the repository level&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="-730" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="-552" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry y="-482" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry y="-412" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="319" y="-557" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="319" y="-492" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="319" y="-420" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="615" y="-411" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604.5" y="-500" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="-492" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="654" y="-492" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="-586" width="135" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="-577" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="656.5" y="-577" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="-577" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-52" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-395" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-53" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="604" y="-475" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-54" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="-475" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-56" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="-555" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-57" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="-555" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-58" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="-555" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-59" value="2c09681" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="645" y="-370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-60" value="4d87daa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="637" y="-451" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ILbWOweAZtpN35By5apy-61" value="HEAD --&gt; f316bba" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="625" y="-535" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
