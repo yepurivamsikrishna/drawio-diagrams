@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T19:38:52.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RWjGVRCTgBFfuAF7QjWn" version="24.3.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-29T19:41:10.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EGVoDlYQFN99NQyDgylI" version="24.3.1" type="github" pages="9">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="1900" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1584,7 +1584,7 @@
           <mxGeometry x="11.25" y="-650" width="720" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5GeJUBVBPgt-qgGbprfT-3" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Fast Forward Merge&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-550" width="200" height="30" as="geometry" />
+          <mxGeometry x="20" y="-580" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5GeJUBVBPgt-qgGbprfT-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5GeJUBVBPgt-qgGbprfT-4" target="5GeJUBVBPgt-qgGbprfT-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1713,11 +1713,14 @@
         <mxCell id="5GeJUBVBPgt-qgGbprfT-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5GeJUBVBPgt-qgGbprfT-67" target="5GeJUBVBPgt-qgGbprfT-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yzk-G3QBSE4dO3fcY0ol-1" value="When there are no new commits in parent branch and only the new commits are from the child branch, then git merge performs fast forward merge&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-540" width="690" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZbFz7lT2p_IBoL2CTSRo" name="Git Rebase">
-    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1725,7 +1728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mr6XPyQtwmLVwsDt7ikj" name="Git Squash">
-    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1733,7 +1736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PoWyZpOpfTBYriJMrPWd" name="GIt revert">
-    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
