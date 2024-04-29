@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T19:41:10.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EGVoDlYQFN99NQyDgylI" version="24.3.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-29T19:45:31.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="e6PxoPsHomdQMpj8duqO" version="24.3.1" type="github" pages="9">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="1900" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1713,8 +1713,14 @@
         <mxCell id="5GeJUBVBPgt-qgGbprfT-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5GeJUBVBPgt-qgGbprfT-67" target="5GeJUBVBPgt-qgGbprfT-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yzk-G3QBSE4dO3fcY0ol-1" value="When there are no new commits in parent branch and only the new commits are from the child branch, then git merge performs fast forward merge&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="yzk-G3QBSE4dO3fcY0ol-1" value="When there are no new commits in parent branch and only the new commits are from the child branch, then git merge performs fast forward merge.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="-540" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzk-G3QBSE4dO3fcY0ol-2" value="Step 4: Checkout to master branch and Merge feature branch into master branch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="160" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzk-G3QBSE4dO3fcY0ol-3" value="&amp;gt;&amp;gt; git checkout -b &lt;font color=&quot;#ff8000&quot;&gt;feature&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="240" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
