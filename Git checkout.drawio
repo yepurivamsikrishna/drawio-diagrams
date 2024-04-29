@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T20:46:47.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pBpQ8zvzNGUgCn8gps1l" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-29T22:35:02.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7DHYYUfE_3E2i0jQYsS2" version="24.3.1" type="github" pages="10">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="1900" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1806,10 +1806,10 @@
           <mxGeometry x="50" y="710" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iTyFUJkvw5xH-oDH94vf-2" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Three way merge : with merge conflicts&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="820" width="310" height="30" as="geometry" />
+          <mxGeometry x="40" y="1000" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iTyFUJkvw5xH-oDH94vf-3" value="When there are &lt;b&gt;new commits in parent&lt;/b&gt;(master) branch as well as&lt;b&gt;&amp;nbsp;the new commits in the child&lt;/b&gt; (feature) branch, but &lt;b&gt;no common files are modified&lt;/b&gt;, then git merge performs three way merge.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="750" width="690" height="30" as="geometry" />
+          <mxGeometry x="70" y="750" width="800" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
