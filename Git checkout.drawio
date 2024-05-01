@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T16:38:37.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4b77BNYpoByrZ2ewzBov" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-01T16:39:05.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3KsYSBELfXS8nZBCxIQ8" version="24.3.1" type="github" pages="10">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="1900" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3764,9 +3764,10 @@
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-374" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="994" y="2210.75" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1j3_2VIVYbu2rFaB1b5T-375" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1j3_2VIVYbu2rFaB1b5T-376" target="1j3_2VIVYbu2rFaB1b5T-396">
+        <mxCell id="1j3_2VIVYbu2rFaB1b5T-375" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1j3_2VIVYbu2rFaB1b5T-376">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1009.5" y="2270.75" as="sourcePoint" />
+            <mxPoint x="1350.5" y="2250.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-376" value="&lt;font color=&quot;#3333ff&quot;&gt;master&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
@@ -3783,13 +3784,6 @@
         </mxCell>
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-380" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1146.5" y="2140.75" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1j3_2VIVYbu2rFaB1b5T-381" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1j3_2VIVYbu2rFaB1b5T-382" target="1j3_2VIVYbu2rFaB1b5T-396">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1335.5" y="2150.75" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-382" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1233" y="2140.75" width="30" height="30" as="geometry" />
@@ -3824,17 +3818,16 @@
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-392" value="file1.txt&lt;div&gt;file2.txt&lt;/div&gt;&lt;div&gt;file3.txt&lt;/div&gt;&lt;div&gt;file4.txt&lt;/div&gt;&lt;div&gt;file5.txt&lt;/div&gt;&lt;div&gt;file6.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1281.75" y="2050" width="82.5" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="1j3_2VIVYbu2rFaB1b5T-393" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1j3_2VIVYbu2rFaB1b5T-394" target="1j3_2VIVYbu2rFaB1b5T-396">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1j3_2VIVYbu2rFaB1b5T-393" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1j3_2VIVYbu2rFaB1b5T-394">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1325.5" y="2225.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-394" value="c4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1074" y="2210.75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-395" value="file1.txt&lt;div&gt;file2.txt&lt;/div&gt;&lt;div&gt;file3.txt&lt;/div&gt;&lt;div&gt;file7.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1060.5" y="2250.75" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1j3_2VIVYbu2rFaB1b5T-396" value="merge&lt;div&gt;commit&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1325.5" y="2200.75" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1j3_2VIVYbu2rFaB1b5T-397" value="file1.txt&lt;div&gt;file2.txt&lt;/div&gt;&lt;div&gt;file3.txt&lt;/div&gt;&lt;div&gt;file4.txt&lt;/div&gt;&lt;div&gt;file5.txt&lt;/div&gt;&lt;div&gt;file6.txt&lt;/div&gt;&lt;div&gt;file7.txt&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1384.75" y="2184.5" width="96.25" height="96.25" as="geometry" />
