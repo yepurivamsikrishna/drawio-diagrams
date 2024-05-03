@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T15:53:44.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UzZyXhcQvGctFF6o6jx8" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-03T16:12:33.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qj265-zDziEGeQGvslv1" version="24.3.1" type="github" pages="11">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="2950" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8196,7 +8196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KhevCMfLvxDMXdQID7aa" name="git pull vs fetch vs clone">
-    <mxGraphModel dx="2309" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3025" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
