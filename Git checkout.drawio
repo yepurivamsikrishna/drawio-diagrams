@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T14:45:42.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sdUD-UrD-6D3RasmVrId" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-03T15:30:52.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ujU-7gD9gGfThNRg1pUq" version="24.3.1" type="github" pages="11">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="2950" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8196,7 +8196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KhevCMfLvxDMXdQID7aa" name="git pull vs fetch vs clone">
-    <mxGraphModel dx="2300" dy="1279" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4300" dy="2450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8706,6 +8706,417 @@
         </mxCell>
         <mxCell id="1gDaihgeJ36aMbDgpqcy-204" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="842" y="2132" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="1gDaihgeJ36aMbDgpqcy-207" value="Now, we can use &quot;git fetch&quot; to pull the changes from remote to local origin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-169" y="2565" width="631" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="822" y="2620" width="229" height="403" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-3" target="ERkSimZxrxCLdNIu_nfc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-3" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="968" y="2948" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-5" target="ERkSimZxrxCLdNIu_nfc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-5" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="968" y="2886" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-6" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="968" y="2820" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-8" target="ERkSimZxrxCLdNIu_nfc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-8" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="896" y="2950" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-10" target="ERkSimZxrxCLdNIu_nfc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-10" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="896" y="2888" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-12" target="ERkSimZxrxCLdNIu_nfc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-12" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="896" y="2822" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-14" target="ERkSimZxrxCLdNIu_nfc-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-14" value="c4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="896" y="2756" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-15" value="origin/main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="956" y="2983" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-16" value="origin/feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="862" y="2983" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-153" y="2633" width="686" height="377" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-19" target="ERkSimZxrxCLdNIu_nfc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-19" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="396" y="2965" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-21" target="ERkSimZxrxCLdNIu_nfc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-21" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="396" y="2903" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-22" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="396" y="2837" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-24" target="ERkSimZxrxCLdNIu_nfc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-24" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="347" y="2967" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-26" target="ERkSimZxrxCLdNIu_nfc-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-26" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="347" y="2905" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-28" target="ERkSimZxrxCLdNIu_nfc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-28" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="347" y="2839" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-29" target="ERkSimZxrxCLdNIu_nfc-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-29" value="c4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="347" y="2773" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-30" value="origin/main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="438" y="2837" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-31" value="origin/feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2772" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-33" target="ERkSimZxrxCLdNIu_nfc-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-33" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="61" y="2967" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-35" target="ERkSimZxrxCLdNIu_nfc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-35" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="61" y="2905" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-36" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="61" y="2839" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-37" value="main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="89" y="2835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-39" target="ERkSimZxrxCLdNIu_nfc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-39" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="2967" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-41" target="ERkSimZxrxCLdNIu_nfc-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-41" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="2905" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-43" target="ERkSimZxrxCLdNIu_nfc-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-43" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="2839" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-45" target="ERkSimZxrxCLdNIu_nfc-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-45" value="c4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="2773" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-47" target="ERkSimZxrxCLdNIu_nfc-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-47" value="feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2652" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-49" target="ERkSimZxrxCLdNIu_nfc-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-49" value="HEAD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="29" y="2652" width="53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-51" target="ERkSimZxrxCLdNIu_nfc-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-51" value="c5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="2714" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-52" value="c6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="2654" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-54" target="ERkSimZxrxCLdNIu_nfc-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-54" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="896" y="2694" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-55" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="896" y="2632" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799" y="2829" as="sourcePoint" />
+            <mxPoint x="561" y="2829" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-57" value="git fetch feature&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="648" y="2792" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-59" target="ERkSimZxrxCLdNIu_nfc-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-59" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="347" y="2714" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-60" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="347" y="2652" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-62" value="&lt;b&gt;git fetch&lt;/b&gt;&lt;div&gt;(if you are already in feature branch)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2856" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-62" target="ERkSimZxrxCLdNIu_nfc-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-151" y="3154" width="771" height="494" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-65" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-66" target="ERkSimZxrxCLdNIu_nfc-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-66" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="471.5" y="3601" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-67" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-68" target="ERkSimZxrxCLdNIu_nfc-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-68" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="471.5" y="3539" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-69" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="471.5" y="3473" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-71" target="ERkSimZxrxCLdNIu_nfc-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-71" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3603" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-73" target="ERkSimZxrxCLdNIu_nfc-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-73" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3541" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-75" target="ERkSimZxrxCLdNIu_nfc-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-75" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3475" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-77" target="ERkSimZxrxCLdNIu_nfc-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-77" value="c4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3409" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-78" value="origin/main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="3473" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-79" value="origin/feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="3408" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-80" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-81" target="ERkSimZxrxCLdNIu_nfc-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-81" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="63" y="3603" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-82" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-83" target="ERkSimZxrxCLdNIu_nfc-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-83" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="63" y="3541" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-84" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="63" y="3475" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-85" value="main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="91" y="3471" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-86" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-87" target="ERkSimZxrxCLdNIu_nfc-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-87" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3603" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-88" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-89" target="ERkSimZxrxCLdNIu_nfc-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-89" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3541" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-90" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-91" target="ERkSimZxrxCLdNIu_nfc-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-91" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3475" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-92" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-93" target="ERkSimZxrxCLdNIu_nfc-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-93" value="c4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3409" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-109" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-95" target="ERkSimZxrxCLdNIu_nfc-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-95" value="feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="3169" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-110" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-97" target="ERkSimZxrxCLdNIu_nfc-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-97" value="HEAD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="34" y="3169" width="53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-98" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-99" target="ERkSimZxrxCLdNIu_nfc-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-99" value="c5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3350" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-108" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-100" target="ERkSimZxrxCLdNIu_nfc-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-100" value="c6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3290" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-101" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-102" target="ERkSimZxrxCLdNIu_nfc-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-102" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3350" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-103" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3288" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-104" value="Now, if you want the changes to reflect in the workspace feature branch also, we need to &lt;font size=&quot;1&quot; color=&quot;#0000cc&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;merge (or) rebase&lt;/b&gt;&lt;/font&gt; origin/feature.&lt;br&gt;&amp;gt;&amp;gt; git checkout feature&lt;div&gt;&amp;gt;&amp;gt; git merge origin/main&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-233" y="3082" width="1055" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-105" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-106" target="ERkSimZxrxCLdNIu_nfc-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-106" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3233" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-107" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="3171" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-112" value="local repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="1526" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-113" value="local repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="119" y="2038" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-114" value="local repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="119" y="2511" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-115" value="local repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="125" y="3010" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-116" value="local repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="193" y="3656" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-117" value="Remote repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="838" y="2523" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-118" value="Remote repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="896" y="3023" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="811" y="3154" width="229" height="501" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-120" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-121" target="ERkSimZxrxCLdNIu_nfc-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-121" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="951" y="3561" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-122" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-123" target="ERkSimZxrxCLdNIu_nfc-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-123" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="951" y="3499" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-124" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="951" y="3433" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-125" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-126" target="ERkSimZxrxCLdNIu_nfc-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-126" value="c1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="879" y="3563" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-127" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-128" target="ERkSimZxrxCLdNIu_nfc-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-128" value="c2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="879" y="3501" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-129" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-130" target="ERkSimZxrxCLdNIu_nfc-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-130" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="879" y="3435" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-131" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-132" target="ERkSimZxrxCLdNIu_nfc-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-132" value="c4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="879" y="3369" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-133" value="origin/main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="939" y="3596" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-134" value="origin/feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="845" y="3596" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-135" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ERkSimZxrxCLdNIu_nfc-136" target="ERkSimZxrxCLdNIu_nfc-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-136" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="879" y="3307" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-137" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="879" y="3245" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ERkSimZxrxCLdNIu_nfc-138" value="Remote repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="877" y="3665" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
