@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T15:12:38.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XIgaIigjL6K_hB5At1CI" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-06T15:13:16.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sWS2NUuC89TzPsgraC15" version="24.3.1" type="github" pages="11">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="3183" dy="2551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5502,7 +5502,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Git interactive Rebase" id="ZVRV_vSMqI9reHacIrJa">
-    <mxGraphModel dx="1900" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3183" dy="2551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xOhQa5S9mWxQFyG5-d1d-0" />
         <mxCell id="xOhQa5S9mWxQFyG5-d1d-1" parent="xOhQa5S9mWxQFyG5-d1d-0" />
@@ -8180,7 +8180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JdMgksNyHmqYrI0VSWuA" name="GIt stash">
-    <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8196,7 +8196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KhevCMfLvxDMXdQID7aa" name="git pull vs fetch vs clone">
-    <mxGraphModel dx="2015" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2733" dy="1051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9528,7 +9528,7 @@
           <mxGeometry x="84" y="625" width="337.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ip_ihebrjbLmbFn7GiT--2" value="Note: This may creates a merge commit/ merge conflicts if changes are there in both the branches" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-165.5" y="3362" width="726.5" height="30" as="geometry" />
+          <mxGeometry x="-159.75" y="3355" width="726.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ip_ihebrjbLmbFn7GiT--4" value="Note: This may creates a merge commit/ merge conflicts if changes are there in both the branches" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-113.5" y="5792" width="726.5" height="30" as="geometry" />
