@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T15:06:29.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6KgiJLdTEafamKYcUzQZ" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-06T15:07:55.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NWfIWm2ZQsHmA0je0E4z" version="24.3.1" type="github" pages="11">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="3183" dy="2551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8196,7 +8196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KhevCMfLvxDMXdQID7aa" name="git pull vs fetch vs clone">
-    <mxGraphModel dx="2309" dy="787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8387,7 +8387,7 @@
           <mxGeometry x="19" y="1336" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1gDaihgeJ36aMbDgpqcy-59" value="&amp;gt;&amp;gt;git checkout feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-162" y="1186" width="207" height="30" as="geometry" />
+          <mxGeometry x="-171" y="1181" width="207" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1gDaihgeJ36aMbDgpqcy-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="1gDaihgeJ36aMbDgpqcy-61" target="1gDaihgeJ36aMbDgpqcy-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
