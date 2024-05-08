@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T17:32:52.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0bZLhUbGh4m0M4InNiVG" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-08T22:21:14.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rxXs3kOTHun3IE8-EUEZ" version="24.3.1" type="github" pages="11">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="3183" dy="2551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5524,7 +5524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JdMgksNyHmqYrI0VSWuA" name="GIt stash">
-    <mxGraphModel dx="1500" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5565,7 +5565,169 @@
           <mxGeometry x="190" y="1310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="387ESdDpalttYPP2G21b-9" value="Stash pop conflicts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="181" y="1760" width="230" height="30" as="geometry" />
+          <mxGeometry x="90" y="1780" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="235" y="280" width="715" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-3" value="&lt;b&gt;Working directory&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="270" y="469" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="380" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="388" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="309" y="388" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="294" width="135" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="303" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="303" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="303" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-12" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="485" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-13" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259" y="405" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-14" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="405" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-15" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="325" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-16" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="325" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-17" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="330" width="52.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-18" value="2c09681" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-19" value="4d87daa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="292" y="429" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-20" value="HEAD --&gt; f316bba" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="345" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="782.5" y="468" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="792.5" y="477" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="782" y="388" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="792" y="396" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="831.5" y="396" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="302" width="135" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="790" y="311" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="834" y="311" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="885" y="311" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-30" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="782.5" y="493" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-31" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="781.5" y="413" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-32" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="822.5" y="413" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-33" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="333" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-34" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="822.5" y="333" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-35" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="338" width="52.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-36" value="4d87daa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="814.5" y="437" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-37" value="HEAD --&gt; f316bba" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="353" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="465" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="474" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="385" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="542" y="393" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-59" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="393" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="299" width="135" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="308" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="584" y="308" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png;" vertex="1" parent="1">
+          <mxGeometry x="635" y="308" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-64" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="490" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-65" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="410" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-66" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="410" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-67" value="file1.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-68" value="file2.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="330" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-69" value="file3.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="335" width="52.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-70" value="4d87daa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="564.5" y="434" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ngDfAe-Z_hZ6oMNDvc9F-71" value="HEAD --&gt; f316bba" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="350" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
