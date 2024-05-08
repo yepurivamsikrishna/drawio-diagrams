@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T15:58:03.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VIZxkIiFZdDslVeCFvNK" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-08T16:09:27.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GwBxm0RegaCzMPvdh0HQ" version="24.3.1" type="github" pages="11">
   <diagram name="Git Checkout" id="ULG5-SwrjvbvYwsLCoPU">
     <mxGraphModel dx="3183" dy="2551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5528,11 +5528,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dQ5xn8Y-Wb686xVAzvFx-1" value="If you want to temporarily store the changes somewhere, so that you can do the other work and later bring the changes that you have done." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dQ5xn8Y-Wb686xVAzvFx-1" value="If you want to temporarily store the changes &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;(both staged and unstaged)&lt;/b&gt;&lt;/font&gt; somewhere, so that you can do the other work and later bring the changes that you have done." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="10" y="70" width="810" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dQ5xn8Y-Wb686xVAzvFx-2" value="1. If you want to switch the branches&lt;div&gt;2. If you want to pull the changes from remote repos&lt;/div&gt;&lt;div&gt;3. If you want to merge with other branches.&lt;/div&gt;&lt;div&gt;4. For hotfix branches&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ5xn8Y-Wb686xVAzvFx-3" value="Git Stash" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
