@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s7TUOqofENoane0X_5WP-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Promises and await in Javascript&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="30" width="270" height="30" as="geometry" />
+        <mxCell id="s7TUOqofENoane0X_5WP-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Promises/async-await in Javascript for asynchronous communication&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s7TUOqofENoane0X_5WP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7TUOqofENoane0X_5WP-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Scenario 1 : Using asynchronous communication for flow of executions&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="500" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
