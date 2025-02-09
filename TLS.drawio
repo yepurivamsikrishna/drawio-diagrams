@@ -1298,10 +1298,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TLS 1.2 ECDHE" id="QHLyfcPbEnmjlkANt2fx">
-    <mxGraphModel dx="1997" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4037" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LGjzWT0xMADYMKtRUMBm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-490" width="1570" height="2020" as="geometry" />
+        </mxCell>
         <mxCell id="f_gr2yKIMtfuKXMjwMfD-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="150" height="30" as="geometry" />
         </mxCell>
