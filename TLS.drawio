@@ -210,7 +210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Certs Invalid error" id="nz7S8Tg9N-LYB-ccTxaQ">
-    <mxGraphModel dx="2284" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cHPL5zRU-PPjhHnzNX5Q-0" />
         <mxCell id="cHPL5zRU-PPjhHnzNX5Q-1" parent="cHPL5zRU-PPjhHnzNX5Q-0" />
@@ -220,8 +220,8 @@
         <mxCell id="cHPL5zRU-PPjhHnzNX5Q-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px; color: rgb(255, 0, 0);&quot;&gt;In case of public CA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="77.5" y="-120" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zfeQyAWsvv1lx14GFKKY-0" value="Sometimes you may face these errors, when you are visiting a website&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;li&gt;&lt;strong&gt;&quot;Your connection is not private&quot;&lt;/strong&gt;&amp;nbsp;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&quot;The certificate is not trusted&quot;&lt;/strong&gt;&amp;nbsp;.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;strong&gt;&quot;Untrusted certificate&quot;&lt;/strong&gt;.&lt;/li&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
-          <mxGeometry x="310" y="-460" width="450" height="90" as="geometry" />
+        <mxCell id="zfeQyAWsvv1lx14GFKKY-0" value="Sometimes you may face these errors, when you are visiting a website or hitting an url with code.&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;li&gt;&lt;strong&gt;&quot;Your connection is not private&quot;&lt;/strong&gt;&amp;nbsp;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&quot;The certificate is not trusted&quot;&lt;/strong&gt;&amp;nbsp;.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;strong&gt;&quot;Untrusted certificate&quot;&lt;/strong&gt;.&lt;/li&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="310" y="-460" width="550" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zfeQyAWsvv1lx14GFKKY-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Why does this happen?&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="310" y="-330" width="180" height="30" as="geometry" />
@@ -565,7 +565,7 @@
         <mxCell id="Rp4FcniPWOKGk_p10oCO-49" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Go Daddy&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="1267" y="86.54" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rp4FcniPWOKGk_p10oCO-50" value="Client doesn&#39;t have the root certs of FMC CA." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-50" value="Client doesn&#39;t have the root certs of FMC CA." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="940" y="244.74" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rp4FcniPWOKGk_p10oCO-51" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;FMC certman&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
@@ -643,7 +643,7 @@
         <mxCell id="Rp4FcniPWOKGk_p10oCO-75" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Go Daddy&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="1357" y="1553.6" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rp4FcniPWOKGk_p10oCO-76" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Now client have the root certs of FMC CA.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-76" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Now client have the root certs of FMC CA.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="1033.75" y="1730" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Rp4FcniPWOKGk_p10oCO-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;FMC certman&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
@@ -655,11 +655,121 @@
         <mxCell id="Rp4FcniPWOKGk_p10oCO-80" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d6b656;fillColor=#fff2cc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.certificate;gradientColor=#ffd966;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="1280" y="1629.75" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rp4FcniPWOKGk_p10oCO-81" value="FMC CA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-81" value="&lt;b&gt;FMC CA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="1357" y="1640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rp4FcniPWOKGk_p10oCO-82" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Import at OS level?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Use&amp;nbsp; Certificate Manager in windows&#39;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;For Java&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Use keytool import&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (or)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Use systems properties&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;tt style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/tt&gt;&lt;kbd style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;javax.net.ssl.trustStore=&lt;var&gt;trustStoreFile&lt;/var&gt;&lt;/kbd&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;tt style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/tt&gt;&lt;kbd style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;javax.net.ssl.trustStorePassword=&lt;var&gt;trustStorePassword&lt;/var&gt;&lt;/kbd&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="1154" y="1260" width="416" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-83" value="Client&lt;div&gt;(Browser/Mobile/ Java)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1087.5" y="1907.5" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-84" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700033-icon-75-document-file-key-128.png" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1517.5" y="1910" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-85" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_101-512.png;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1597.5" y="1907.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-86" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1507.5" y="1907.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-87" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700033-icon-75-document-file-key-128.png" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1527.5" y="1920" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-88" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;www.app256.fmc.com&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1552.5" y="1870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-89" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Certificate.svg;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1607.5" y="1921.4" width="40" height="33.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1" source="Rp4FcniPWOKGk_p10oCO-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1163" y="2520" as="sourcePoint" />
+            <mxPoint x="1162.5" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-91" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="2440" as="sourcePoint" />
+            <mxPoint x="1582" y="1967.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1162.5" y="2020" as="sourcePoint" />
+            <mxPoint x="1582.5" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-93" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;www.app256.fmc.com&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=5;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1307.5" y="2010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-94" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1582.5" y="2090" as="sourcePoint" />
+            <mxPoint x="1162.5" y="2120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-95" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Certificate.svg;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1327" y="2121.4" width="40" height="33.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-96" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.certificate_authority;fontColor=#ffffff;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="895" y="2270" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-97" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;FMC Certman&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="870" y="2320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="2280" as="sourcePoint" />
+            <mxPoint x="960" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-99" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Certificate.svg;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1050" y="2220" width="40" height="33.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-100" value="Check if certificate issued by Digitcert" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="950" y="2253.6" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="2310" as="sourcePoint" />
+            <mxPoint x="1170" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-102" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1181.5" y="2380" as="sourcePoint" />
+            <mxPoint x="1561.5" y="2380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-103" value="&lt;span&gt;Further communication continues&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="Rp4FcniPWOKGk_p10oCO-102">
+          <mxGeometry x="-0.3906" relative="1" as="geometry">
+            <mxPoint x="56" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="990" y="2320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-105" value="Certificate is valid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1000" y="2315" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-106" value="issued by FMC CA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1380" y="2121.4" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-107" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1" target="Rp4FcniPWOKGk_p10oCO-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1163" y="2430" as="sourcePoint" />
+            <mxPoint x="1162.5" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-108" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="1148.5" y="2170" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-109" value="Check if FMC&amp;nbsp; is a trusted CA.&lt;div&gt;&lt;br&gt;&lt;div&gt;FMC root certs are available in my truststore. It is a trusted CA.&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;align=left;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="917.5" y="2088.2" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rp4FcniPWOKGk_p10oCO-110" value="&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sometimes, you may need to add both Root and intermediate certs to the client.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Instead of private CA, there can also be self-signed certificates. In that case, it is similar to private CA. Use the self signed CA root certs and add them to client to establish trust.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="677" y="2530" width="1240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
