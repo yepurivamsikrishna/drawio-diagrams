@@ -388,7 +388,7 @@
         <mxCell id="DACJY65kQlHbS5RHRYlY-70" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Go Daddy&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="187" y="101.80000000000001" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DACJY65kQlHbS5RHRYlY-71" value="Most of the browsers/software/os have the root certificates of publicly available Certificate Authority. These are updated as part of regular security updates." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+        <mxCell id="DACJY65kQlHbS5RHRYlY-71" value="Most of the browsers/software/os have the root certificates of publicly available Certificate Authority in their truststore. These are updated as part of regular security updates." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="-140" y="260" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DACJY65kQlHbS5RHRYlY-73" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(Lets Encrypt/DigiCert/GlobalSign etc..)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
@@ -423,7 +423,7 @@
         </mxCell>
         <mxCell id="DACJY65kQlHbS5RHRYlY-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="462" y="1170" as="sourcePoint" />
+            <mxPoint x="460" y="1090" as="sourcePoint" />
             <mxPoint x="462" y="617.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -471,8 +471,8 @@
         </mxCell>
         <mxCell id="DACJY65kQlHbS5RHRYlY-93" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="61.5" y="1128.82" as="sourcePoint" />
-            <mxPoint x="441.5" y="1128.82" as="targetPoint" />
+            <mxPoint x="61.5" y="1030" as="sourcePoint" />
+            <mxPoint x="441.5" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dgEHcETZ_jZPMEoqTtHF-0" value="&lt;span&gt;Further communication continues&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="DACJY65kQlHbS5RHRYlY-93">
@@ -491,7 +491,7 @@
         </mxCell>
         <mxCell id="jUSKQeKjUBik5JN4yzFg-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cHPL5zRU-PPjhHnzNX5Q-1" target="jUSKQeKjUBik5JN4yzFg-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="43" y="1170" as="sourcePoint" />
+            <mxPoint x="43" y="1080" as="sourcePoint" />
             <mxPoint x="42.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -500,6 +500,12 @@
         </mxCell>
         <mxCell id="jUSKQeKjUBik5JN4yzFg-3" value="Check if Digicert is a trusted CA.&lt;div&gt;&lt;br&gt;&lt;div&gt;Digicert root certs are available in my truststore. It is a trusted CA.&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;align=left;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="-202.5" y="738.2" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_KanNaMw2TrP2fOg6S_-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="640" y="-110.19" width="10" height="1610.19" as="geometry" />
+        </mxCell>
+        <mxCell id="3_KanNaMw2TrP2fOg6S_-1" value="When a server responds with its certificate and the CA provider, client checks if the CA is trusted by the device or not." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="-150" y="380" width="420" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
