@@ -774,7 +774,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="TLS 1.2 RSA" id="PqFk9q4K0jhIHGDVJ-uj">
+  <diagram name="TLS 1.2 - TLS_RSA_WITH_AES_128_CBC_SHA" id="PqFk9q4K0jhIHGDVJ-uj">
     <mxGraphModel dx="2284" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VF1Us-IND3LAk0ITMln7-0" />
