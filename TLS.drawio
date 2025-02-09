@@ -1988,6 +1988,9 @@
         <mxCell id="QOitFCudAot4oQ2i6Yat-41" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="765" y="397.5" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aQk_STAuSR4Wp8TCDM-k-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;p&gt;With TLS 1.3, handshake happened in only one RTT (RTT1)&lt;/p&gt;&lt;p&gt;Client can send the encrypted application data to server from the second RTT (RTT2)&lt;/p&gt;&lt;p&gt;TLS 1.3 takes only one RTT for TLS handshake when compared to TLS 1.2 which takes 2 RTT.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1110" width="710" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
