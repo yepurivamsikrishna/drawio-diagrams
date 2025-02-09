@@ -1,20 +1,112 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="4">
-  <diagram id="n-L08SXB57HdUqH27DqO" name="Page-0">
+  <diagram id="n-L08SXB57HdUqH27DqO" name="Certs generation">
     <mxGraphModel dx="1434" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-8" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-130" width="150" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="rO1Hcy7pO_pyp4_UtASu-1" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-220" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="-360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rO1Hcy7pO_pyp4_UtASu-2" value="www.crazyweb.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-340" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rO1Hcy7pO_pyp4_UtASu-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.certificate_manager_2;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-245" width="23.5" height="20" as="geometry" />
+          <mxGeometry x="470" y="-390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rO1Hcy7pO_pyp4_UtASu-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700033-icon-75-document-file-key-128.png" vertex="1" parent="1">
-          <mxGeometry x="550" y="-310" width="20" height="20" as="geometry" />
+          <mxGeometry x="475" y="52.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Certificate generation for your website/server&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-540" width="645" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-2" value="&lt;b&gt;Step 1:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-3" value="You have a server mapped to a domain address." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-440" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-5" value="&lt;b&gt;Step 2:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-6" value="Generate a private key and the certificate signing request." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-270" width="330" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="openssl req -newkey rsa:2048 -nodes -keyout server.key -out server.csr -subj &quot;/C=US/ST=State/L=City/O=MyCompany/OU=IT/CN=www.crazyweb.com&quot;" link="openssl req -newkey rsa:2048 -nodes -keyout server.key -out server.csr -subj &quot;/C=US/ST=State/L=City/O=MyCompany/OU=IT/CN=www.example.com&quot;" id="r-c02igLWUF8WxbjvoJ9-7">
+          <mxCell style="text;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=#000000;fontColor=#EDEDED;" vertex="1" parent="1">
+            <mxGeometry x="240" y="-220" width="830" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-9" value="www.crazyweb.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_101-512.png;" vertex="1" parent="1">
+          <mxGeometry x="555" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-12" value="&lt;b&gt;Step 3:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-13" value="Go to your Certificate Authority and obtain the certificate using certificate signing request file." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-30" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-14" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="50" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700033-icon-75-document-file-key-128.png" vertex="1" parent="1">
+          <mxGeometry x="485" y="62.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_101-512.png;" vertex="1" parent="1">
+          <mxGeometry x="565" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r-c02igLWUF8WxbjvoJ9-19" value="www.crazyweb.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="22.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.certificate_authority;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="905" y="40" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Certificate Authority&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="70" as="sourcePoint" />
+            <mxPoint x="880" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_101-512.png;" vertex="1" parent="1">
+          <mxGeometry x="730" y="22.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="90" as="sourcePoint" />
+            <mxPoint x="640" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-7" value="&lt;b&gt;Step 4:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-8" value="Now, use key and the certificate to host your application. Use these certificates at the server or at the gateway/route etc.." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700033-icon-75-document-file-key-128.png" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_101-512.png;" vertex="1" parent="1">
+          <mxGeometry x="560" y="267.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-17" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="267.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700033-icon-75-document-file-key-128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-20" value="www.crazyweb.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-22" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Certificate.svg;" vertex="1" parent="1">
+          <mxGeometry x="740" y="105.9" width="40" height="33.6" as="geometry" />
+        </mxCell>
+        <mxCell id="JCa4Wy6tsx0ZPgQ5MHii-23" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Certificate.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="281.4" width="40" height="33.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
