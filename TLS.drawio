@@ -909,7 +909,7 @@
           <mxGeometry x="700" y="390" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VF1Us-IND3LAk0ITMln7-35" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Decrypt the secret with private key&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
-          <mxGeometry x="700" y="367.75" width="150" height="30" as="geometry" />
+          <mxGeometry x="722.5" y="367.75" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VF1Us-IND3LAk0ITMln7-36" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;ENCRYPTED_SHARED_SECRET = 234thrfg25t4er&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;SHARED_SECRET =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 7px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;234thrfg25t4er&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="705" y="390" width="190.75" height="30" as="geometry" />
@@ -1000,7 +1000,7 @@
         </mxCell>
         <mxCell id="VF1Us-IND3LAk0ITMln7-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1" target="VF1Us-IND3LAk0ITMln7-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1210" as="sourcePoint" />
+            <mxPoint x="680" y="1290" as="sourcePoint" />
             <mxPoint x="680" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1033,7 +1033,7 @@
         </mxCell>
         <mxCell id="VF1Us-IND3LAk0ITMln7-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1" target="VF1Us-IND3LAk0ITMln7-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="1210" as="sourcePoint" />
+            <mxPoint x="230" y="1270" as="sourcePoint" />
             <mxPoint x="230" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1048,9 +1048,6 @@
         </mxCell>
         <mxCell id="VF1Us-IND3LAk0ITMln7-83" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="47.5" y="-410" width="407" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6tYI-Lpc8CNvcc5dEUJQ-0" value="It took 3 RTT for the first call" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
-          <mxGeometry x="40" y="1290" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jnr27O0QFM0-vDzWVkf5-0" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 19px;&quot;&gt;TLS communication at Layer 4 with&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;TLS_RSA_WITH_AES_128_CBC_SHA&lt;/span&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FF0000;fontStyle=1" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="245" y="-650" width="610" height="30" as="geometry" />
@@ -1073,7 +1070,7 @@
         <mxCell id="Jnr27O0QFM0-vDzWVkf5-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Send supported cipher suites and Client Random&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="75" y="60" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jnr27O0QFM0-vDzWVkf5-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Send Server Random and server certificate&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Send Server Random and server certificate and Cipher Suite to use&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="712.5" y="115" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jnr27O0QFM0-vDzWVkf5-9" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;ENCRYPTED_SHARED_SECRET = 234thrfg25t4er&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
@@ -1081,6 +1078,175 @@
         </mxCell>
         <mxCell id="Jnr27O0QFM0-vDzWVkf5-10" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;This is asymmetric encryption&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp;used for sharing keys&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="300" y="360" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TLS workflow&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="352.5" y="-70" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1140" as="sourcePoint" />
+            <mxPoint x="680" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1190" as="sourcePoint" />
+            <mxPoint x="230" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-16" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTT1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="310" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-19" value="Further communication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="379" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-21" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTT2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="422.25" y="380" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-22" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTT3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="437.5" y="830" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-23" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTTn&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="315" y="1155" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Drawback of TLS_RSA_WITH_AES_128_CBC_SHA&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="65.38" y="1350" width="934.62" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Assuming the hacker(man in the middle is logging the packets)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="130" y="1420" width="960" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-26" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTT1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="177.5" y="1520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="585" y="1490" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-28" value="Client Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="595" y="1530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-29" value="Server Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="595" y="1560" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-30" value="At RTT1, he has Client Random and Server Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="229.5" y="1525" width="302" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-31" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTT2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="177.5" y="1660" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-32" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="585" y="1630" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-33" value="Client Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="590" y="1670" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-34" value="Server Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="595" y="1695" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-35" value="At RTT2, he has the encrypted shared secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="229.5" y="1665" width="302" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-36" value="Encrypted Shared secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="595" y="1720" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-37" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTT3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="177.5" y="1820" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-38" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="585" y="1790" width="355" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-39" value="Client Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="590" y="1830" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-40" value="Server Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="595" y="1855" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-41" value="At RTT3, he has the encrypted data with session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="229.5" y="1825" width="302" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-42" value="Encrypted Shared secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="595" y="1880" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-44" value="Encrypted app data 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="765" y="1830" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-45" value="&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;RTTn&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="182.5" y="2000" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-46" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="590" y="1970" width="355" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-47" value="Client Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="595" y="2010" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-48" value="Server Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="600" y="2035" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-49" value="At RTTn, he has the encrypted data with session key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="234.5" y="2005" width="302" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-50" value="Encrypted Shared secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="600" y="2060" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-51" value="Encrypted app data 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="770" y="2010" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-52" value="Encrypted app data n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="775" y="2050" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Let&#39;s say if the server is compromised, and hacker got the private key, he can decrypt all the application data from the requests.&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="120" y="2170" width="960" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1" source="Jnr27O0QFM0-vDzWVkf5-54" target="Jnr27O0QFM0-vDzWVkf5-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496.5" y="2329.9090909090905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-54" value="Encrypted Shared Secret" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="229.5" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-55" value="Shared Secret" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="626.5" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-57" value="Decrypt with private certificate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="403.5" y="2300" width="178" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1" source="Jnr27O0QFM0-vDzWVkf5-59" target="Jnr27O0QFM0-vDzWVkf5-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="2419.9090909090905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-59" value="Shared Secret" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="234" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-60" value="Session Key" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="631" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-61" value="Shared Secret + Client Random + Server Random" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="356.5" y="2390" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1" source="Jnr27O0QFM0-vDzWVkf5-62" target="Jnr27O0QFM0-vDzWVkf5-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-62" value="Encrypted app data 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="246.5" y="2520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-63" value="app data 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="631" y="2520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-65" value="Decrypt with AES( session_key)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="379" y="2520" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1" source="Jnr27O0QFM0-vDzWVkf5-67" target="Jnr27O0QFM0-vDzWVkf5-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-67" value="Encrypted app data n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="245.38" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-68" value="app data n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="629.88" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-69" value="Decrypt with AES( session_key)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="377.88" y="2590" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
