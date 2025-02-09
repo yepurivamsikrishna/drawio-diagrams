@@ -1813,7 +1813,7 @@
         <mxCell id="QOitFCudAot4oQ2i6Yat-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="505" width="165" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QOitFCudAot4oQ2i6Yat-46" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; SHARED_SECRET = ECDHE (S_PUB, S_PRIV)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QOitFCudAot4oQ2i6Yat-46" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; SHARED_SECRET = ECDHE (C_PUB, S_PRIV)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="792.5" y="505" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QOitFCudAot4oQ2i6Yat-47" value="Generate shared secret&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
