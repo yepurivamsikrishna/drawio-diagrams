@@ -1630,6 +1630,9 @@
         <mxCell id="vtcCANY_e5ZZ-LqpObA9-1" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 20px;&quot;&gt;TLS 1.3 communication at Layer 4&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230.38" y="-430" width="610" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s2deTbaADdjGLcBcx0W0-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Features on TLS 1.3&lt;/h1&gt;&lt;p&gt;ECDHE is used for Key exchange. This is enforced and client have no other options for key exchange.&lt;/p&gt;&lt;p&gt;It takes only 1RTT before sending the application data to the server, thus improving TLS handshake time.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-340" width="740" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
