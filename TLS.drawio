@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="5">
   <diagram id="n-L08SXB57HdUqH27DqO" name="Certs generation">
-    <mxGraphModel dx="1509" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZYyublE_-IExySUwKdpZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-620" width="1210" height="2420" as="geometry" />
+        </mxCell>
         <mxCell id="r-c02igLWUF8WxbjvoJ9-8" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-130" width="150" height="60" as="geometry" />
         </mxCell>
@@ -241,10 +244,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Certs Invalid error" id="nz7S8Tg9N-LYB-ccTxaQ">
-    <mxGraphModel dx="4947" dy="3209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8020" dy="4790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cHPL5zRU-PPjhHnzNX5Q-0" />
         <mxCell id="cHPL5zRU-PPjhHnzNX5Q-1" parent="cHPL5zRU-PPjhHnzNX5Q-0" />
+        <mxCell id="TjJA48I94QE9Q0w88y81-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
+          <mxGeometry x="-380" y="-650" width="2390" height="3360" as="geometry" />
+        </mxCell>
         <mxCell id="cHPL5zRU-PPjhHnzNX5Q-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Certificate verification issues&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="cHPL5zRU-PPjhHnzNX5Q-1">
           <mxGeometry x="390" y="-530" width="645" height="30" as="geometry" />
         </mxCell>
