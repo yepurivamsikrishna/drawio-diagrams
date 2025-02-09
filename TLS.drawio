@@ -1194,7 +1194,7 @@
           <mxGeometry x="775" y="2050" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jnr27O0QFM0-vDzWVkf5-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Let&#39;s say if the server is compromised, and hacker got the private key, he can decrypt all the application data from the requests.&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
-          <mxGeometry x="120" y="2170" width="960" height="40" as="geometry" />
+          <mxGeometry x="120" y="2170" width="960" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Jnr27O0QFM0-vDzWVkf5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VF1Us-IND3LAk0ITMln7-1" source="Jnr27O0QFM0-vDzWVkf5-54" target="Jnr27O0QFM0-vDzWVkf5-55">
           <mxGeometry relative="1" as="geometry">
@@ -1247,6 +1247,12 @@
         </mxCell>
         <mxCell id="Jnr27O0QFM0-vDzWVkf5-69" value="Decrypt with AES( session_key)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="377.88" y="2590" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-70" value="He can read all the encrypted application data. This is not secure." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="105" y="2690" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jnr27O0QFM0-vDzWVkf5-71" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;What is the solution for this?&lt;/h1&gt;&lt;p&gt;The problem is at RTT2, exchanging the shared secret over the network, that too using asymmetric encryption.&lt;br&gt;&lt;br&gt;Solution is&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; Not the exchange the shared secret. Instead both client and server need to generate the same shared secret without exchanging.&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; This is possible using ECDHE algorithm.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Therefore, replace &lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;KEY_EXCHANGE&lt;/font&gt;&lt;/b&gt; algorithm from &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;RSA &lt;/b&gt;&lt;/font&gt;to &lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;&lt;b&gt;ECDHE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="65" y="2780" width="880" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
