@@ -812,10 +812,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TLS 1.2 - TLS_RSA_WITH_AES_128_CBC_SHA" id="PqFk9q4K0jhIHGDVJ-uj">
-    <mxGraphModel dx="2154" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4947" dy="3209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VF1Us-IND3LAk0ITMln7-0" />
         <mxCell id="VF1Us-IND3LAk0ITMln7-1" parent="VF1Us-IND3LAk0ITMln7-0" />
+        <mxCell id="orS1HF5G2j6jMeB25Knw-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
+          <mxGeometry x="-340" y="-730" width="1650" height="3820" as="geometry" />
+        </mxCell>
         <mxCell id="VF1Us-IND3LAk0ITMln7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VF1Us-IND3LAk0ITMln7-1">
           <mxGeometry x="10" y="313.75" width="190" height="30" as="geometry" />
         </mxCell>
